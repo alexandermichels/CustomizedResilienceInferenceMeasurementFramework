@@ -30,6 +30,6 @@
             }
     },
     "require_upload_data": true,
-    "supported_hpc": ["keeling_community"],
-    "default_hpc": "keeling_community"
+    "supported_hpc": ["aces_community", "keeling_community"],
+    "default_hpc": "aces_community"
 }
